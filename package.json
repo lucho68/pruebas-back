@@ -1,0 +1,14 @@
+{
+  "name": "lista-tareas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lucho68 <busca2011@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

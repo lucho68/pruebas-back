@@ -4,7 +4,7 @@ function requestController()
 {
 // Logica de la función
 // console.log({global})
-console.log("Request xxx pruebita total!")
+console.log("Request xxx pruebita total!!!!")
 }
 
 //Configuro el servidor
